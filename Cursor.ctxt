@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cursor
+comment1.params=h\ k
+comment1.target=void\ moveTo(int,\ int)
+comment2.params=h\ k
+comment2.target=void\ move(int,\ int)
+comment3.params=h\ k
+comment3.target=void\ moveToMousePos(int,\ int)
+numComments=4

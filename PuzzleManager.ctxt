@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PuzzleManager
+comment0.text=\n\ sets\ up\ the\ grid\ and\ numbers\n\ kinda\ the\ main\ controller\n
+comment1.params=
+comment1.target=PuzzleManager()
+comment2.params=s
+comment2.target=PuzzleManager(java.lang.String)
+comment3.params=s
+comment3.target=void\ getPuzzle(java.lang.String)
+comment4.params=
+comment4.target=void\ updateRowsAndCols()
+comment5.params=
+comment5.target=boolean\ checkGrid()
+comment6.params=i
+comment6.target=boolean\ checkRow(int)
+comment7.params=i
+comment7.target=boolean\ checkCol(int)
+comment8.params=g
+comment8.target=void\ draw(java.awt.Graphics)
+numComments=9

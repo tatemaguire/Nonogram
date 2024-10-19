@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\n\ used\ to\ start\ the\ game\ in\ creative\ or\ survival\n
+comment1.params=
+comment1.target=void\ creativeMode()
+comment1.text=\n\ Choose\ any\ level,\ create\ your\ own\n
+comment2.params=
+comment2.target=void\ survivalMode()
+comment2.text=\n\ Follow\ level\ progression\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

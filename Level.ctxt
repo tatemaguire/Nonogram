@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\n\ contains\ data\ for\ and\ draws\ each\ level\ selection\ in\ survival\ mode\n
+comment1.params=n\ ln
+comment1.target=Level(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getLevelNumber()
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=boolean\ getComplete()
+comment6.params=c
+comment6.target=void\ setComplete(boolean)
+comment7.params=g\ y
+comment7.target=void\ draw(java.awt.Graphics,\ int)
+numComments=8

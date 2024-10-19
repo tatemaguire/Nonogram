@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Puzzle
+comment0.text=\n\ obtains\ file\ data,\ transforms\ into\ arrays\ of\ row\ numbers\ and\ column\ numbers\n\ used\ to\ acces\ numbers\ of\ a\ puzzle's\ solution\n
+comment1.params=puzzleName
+comment1.target=Puzzle(java.lang.String)
+comment2.params=tiles
+comment2.target=java.util.ArrayList\ tilesToNumbers(java.util.ArrayList)
+comment2.text=\n\ takes\ list\ of\ tiles,\ transforms\ into\ list\ of\ numbers\n
+numComments=3

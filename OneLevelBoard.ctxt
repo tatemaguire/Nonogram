@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OneLevelBoard
+comment0.text=\n\ Creates\ a\ board\ that's\ used\ for\ one\ survival\ mode\ puzzle\n
+comment1.params=f\ l
+comment1.target=OneLevelBoard(javax.swing.JFrame,\ Level)
+comment2.params=
+comment2.target=boolean\ goSolved()
+comment2.text=\n\ returns\ true\ if\ puzzle\ solved\n
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+numComments=5

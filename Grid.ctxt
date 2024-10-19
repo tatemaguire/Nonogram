@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Grid
+comment0.text=\n\ contains\ 2d\ arraylist\ of\ tiles\n\ draws\ tiles\ on\ board\n\ \n\ weirdly\ static\ except\ for\ drawing\ and\ construction\n\ the\ data\ and\ its\ modification\ is\ static\n
+comment1.params=w\ h\ gx\ gy
+comment1.target=Grid(int,\ int,\ int,\ int)
+comment1.text=\n\ 0\ is\ empty\n\ 1\ is\ full\n\ 2\ is\ blocked\n\ \n\ w\ and\ h\ are\ grid\ size\n\ gx\ and\ gy\ are\ pixels\ from\ bottom\ right\n
+comment10.params=g
+comment10.target=void\ draw(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ clearAll()
+comment3.params=
+comment3.target=void\ clear()
+comment4.params=
+comment4.target=void\ fill()
+comment5.params=
+comment5.target=void\ block()
+comment6.params=r
+comment6.target=void\ completeRow(int)
+comment7.params=c
+comment7.target=void\ completeCol(int)
+comment8.params=x\ y
+comment8.target=boolean\ isValid(int,\ int)
+comment9.params=
+comment9.target=void\ drawPrep()
+numComments=11

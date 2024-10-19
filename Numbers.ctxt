@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Numbers
+comment0.text=\n\ contains\ data\ for\ and\ draws\ numbers\ \n
+comment1.params=cnum\ rnum\ nx\ ny\ tsp
+comment1.target=Numbers(java.util.ArrayList,\ java.util.ArrayList,\ int,\ int,\ int)
+comment1.text=\n\ receives\ numbers\ to\ be\ displayed\n\ nx\ and\ ny\ are\ position\ of\ top\ left\ of\ grid,\ measured\ from\ top\ left\ of\ window\n
+comment2.params=
+comment2.target=int\ longestNumberLine()
+comment2.text=\n\ returns\ the\ amount\ of\ numbers\ in\ the\ longest\ list\ of\ numbers,\ column\ or\ row\n
+comment3.params=
+comment3.target=void\ drawPrep()
+comment4.params=g\ pm
+comment4.target=void\ draw(java.awt.Graphics,\ PuzzleManager)
+numComments=5

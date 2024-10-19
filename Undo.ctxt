@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Undo
+comment0.text=\n\ contains\ 50\ instances\ of\ the\ history\ of\ the\ grid\n\ methods\ to\ get\ grid\ and\ write\ grid\n
+comment1.params=inputGrid
+comment1.target=void\ recordGrid(int[][])
+comment1.text=\n\ stores\ the\ entire\ grid\n
+comment2.params=
+comment2.target=int[][]\ getPrevGrid()
+comment2.text=\n\ returns\ the\ previous\ state\n
+comment3.params=
+comment3.target=void\ clearHistory()
+comment4.params=inList
+comment4.target=int[][]\ listToArray2D(java.util.ArrayList)
+comment5.params=inArray
+comment5.target=java.util.ArrayList\ arrayToList2D(int[][])
+comment5.text=\n\ r\ and\ c\ are\ different\ than\ what\ the\ grid's\ r\ and\ c\ are,\ in\ this\ method\ only\n
+numComments=6
