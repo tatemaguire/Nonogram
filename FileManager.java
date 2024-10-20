@@ -53,7 +53,7 @@ public class FileManager
         }
         try
         {
-            FileWriter writer = new FileWriter("/Users/tatemaguire/Documents/Nonograms/" + name + ".txt");
+            FileWriter writer = new FileWriter(Board.puzzleDirectory + name + ".txt");
             
             for (int i = 0; i < tiles.get(0).size(); i++)//for each row
             {
