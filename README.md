@@ -3,6 +3,7 @@ A program used to create and solve nonogram puzzles.
 - Author: Tate Maguire
 - Developed: June 2023
 - Updated to work in JDK 23 and for distribution
+- [https://github.com/tatemaguire/Nonogram](url)
 
 # Installation / Running (instructions for mac and maybe windows idk)
 From GitHub, you can click on the green code button and choose download as zip. Then, unpack the zip, which you can usually do by double-clicking on it.
